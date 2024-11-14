@@ -1,0 +1,17 @@
+body {
+
+    background-color: black;
+color: white;
+margin: 150px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 100px;
+
+}
+
+header {
+
+border-bottom: solid 10px black;
+text-align: center;
+padding: 20px;
+background-color: red;
+}
